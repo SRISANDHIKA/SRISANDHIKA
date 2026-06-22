@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Sri Sandhika 👋
 
-<!--
-**SRISANDHIKA/SRISANDHIKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I am currently learning and building real-world projects using Python, Django, PostgreSQL, and Azure Cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Project
+
+🏥 **CARDIOCARE PLUS**
+
+An AI-Powered Cardiology CRM & Patient Management Platform designed to manage:
+
+* Patients
+* Doctors
+* Appointments
+* Medical Records
+* Laboratory Reports
+* Pharmacy Workflows
+* AI Risk Prediction
+* Symptom Checker
+* Health Assistant
+
+💻 Tech Stack
+
+* Python
+* Django
+* PostgreSQL
+* HTML
+* CSS
+* Bootstrap
+* Git
+* GitHub
+* Azure Cloud
+
+📚 Currently Learning
+
+* Backend Development
+* Database Design
+* Cloud Computing
+* Machine Learning Integration
+* Software Architecture
+* Documentation Practices
+
+🎯 Goals
+
+* Become a Professional Software Developer
+* Build Production-Ready Applications
+* Master Django and PostgreSQL
+* Learn Cloud Deployment
+* Create Strong Portfolio Projects
+
+🌱 Learning Philosophy
+
+Learn → Understand → Build → Document → Improve
+
+📈 2026 Roadmap
+
+* Complete CARDIOCARE PLUS
+* Build Portfolio Website
+* Learn Advanced Django
+* Deploy Applications on Azure
+* Strengthen Full-Stack Development Skills
