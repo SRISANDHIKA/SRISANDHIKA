@@ -6,7 +6,7 @@ I am currently learning and building real-world projects using Python, Django, P
 
 🚀 Current Project
 
-🏥 **CARDIOCARE PLUS**
+🏥 **HeratSync**
 
 An AI-Powered Cardiology CRM & Patient Management Platform designed to manage:
 
@@ -55,7 +55,7 @@ Learn → Understand → Build → Document → Improve
 
 📈 2026 Roadmap
 
-* Complete CARDIOCARE PLUS
+* Complete HeartSync
 * Build Portfolio Website
 * Learn Advanced Django
 * Deploy Applications on Azure
